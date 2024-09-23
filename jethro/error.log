@@ -1,0 +1,1959 @@
+=================================== 
+ 2024-04-06 22:27:23 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:23 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 1 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 6 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 22:27:24 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/events/events.php 29 
+
+=================================== 
+ 2024-04-06 23:11:44 2 include(./includes/head.php): failed to open stream: No such file or directory /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:11:44 2 include(): Failed opening './includes/head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:11:44 2 include(./includes/header.php): failed to open stream: No such file or directory /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:11:44 2 include(): Failed opening './includes/header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:11:44 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:11:44 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:11:44 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:11:44 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:12:38 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:12:38 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:12:38 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:12:38 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:12:38 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:12:38 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:12:38 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:12:38 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:12:39 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:12:39 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:12:39 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:12:39 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:12:39 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:12:39 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:12:39 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:12:39 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:12:39 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:12:40 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:12:40 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:12:40 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:12:40 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:12:40 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:12:40 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:12:40 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:12:40 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:13:06 2 include(./includes/head.php): failed to open stream: No such file or directory /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:13:06 2 include(): Failed opening './includes/head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:13:06 2 include(./includes/header.php): failed to open stream: No such file or directory /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:13:06 2 include(): Failed opening './includes/header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:13:06 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:13:06 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:13:06 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:13:06 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:13:13 2 include(./includes/head.php): failed to open stream: No such file or directory /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:13:13 2 include(): Failed opening './includes/head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:13:13 2 include(./includes/header.php): failed to open stream: No such file or directory /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:13:13 2 include(): Failed opening './includes/header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:13:13 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:13:13 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:13:13 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:13:13 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:13:26 2 require(head.php): failed to open stream: No such file or directory /var/www/jethro/sermons.php 2 
+
+=================================== 
+ 2024-04-06 23:13:29 2 include(head.php): failed to open stream: No such file or directory /var/www/jethro/about.php 1 
+
+=================================== 
+ 2024-04-06 23:13:29 2 include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/about.php 1 
+
+=================================== 
+ 2024-04-06 23:13:29 2 include(header.php): failed to open stream: No such file or directory /var/www/jethro/about.php 5 
+
+=================================== 
+ 2024-04-06 23:13:29 2 include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/about.php 5 
+
+=================================== 
+ 2024-04-06 23:13:29 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/about.php 32 
+
+=================================== 
+ 2024-04-06 23:13:29 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/about.php 32 
+
+=================================== 
+ 2024-04-06 23:18:45 2 include(/var/www/jethro./includes/head.php): failed to open stream: No such file or directory /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:18:45 2 include(): Failed opening '/var/www/jethro./includes/head.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 13 
+
+=================================== 
+ 2024-04-06 23:18:45 2 include(/var/www/jethro./includes/header.php): failed to open stream: No such file or directory /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:18:45 2 include(): Failed opening '/var/www/jethro./includes/header.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 18 
+
+=================================== 
+ 2024-04-06 23:18:45 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:18:45 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:18:45 2 include(footer.php): failed to open stream: No such file or directory /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:18:45 2 include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') /var/www/jethro/index.php 80 
+
+=================================== 
+ 2024-04-06 23:21:24 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:21:24 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:22:27 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:22:27 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:22:33 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:22:33 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:22:35 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:22:35 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:22:49 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:22:49 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:22:54 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:22:54 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:22:54 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:22:54 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:22:54 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-06 23:22:54 8 Array to string conversion /var/www/jethro/contact.php 32 
+
+=================================== 
+ 2024-04-06 23:22:56 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:22:56 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:22:56 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:22:56 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:22:56 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-06 23:22:56 8 Array to string conversion /var/www/jethro/contact.php 32 
+
+=================================== 
+ 2024-04-06 23:22:59 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:22:59 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:23:02 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:23:02 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:23:03 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:23:03 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:23:03 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:23:03 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:23:03 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:23:03 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:23:05 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:23:05 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:23:06 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:23:06 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:23:06 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:23:06 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:23:06 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:23:06 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:23:20 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:23:20 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:23:31 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:23:31 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:23:37 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:23:37 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:23:40 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:23:40 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:23:41 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:23:41 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:23:42 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:23:42 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:23:43 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:23:43 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:25:45 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:25:45 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:26:21 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:26:21 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:28:23 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:28:23 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:29:17 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:29:17 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:29:18 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:29:18 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:29:20 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:29:20 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:29:20 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:29:20 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:29:20 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-06 23:29:20 8 Array to string conversion /var/www/jethro/contact.php 32 
+
+=================================== 
+ 2024-04-06 23:29:22 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:29:22 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:29:23 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:29:23 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:29:25 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:29:25 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:29:25 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:29:25 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:29:25 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-06 23:29:25 8 Array to string conversion /var/www/jethro/contact.php 32 
+
+=================================== 
+ 2024-04-06 23:30:40 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:30:40 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:30:42 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:30:42 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:30:42 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:30:42 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:30:42 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-06 23:30:42 8 Array to string conversion /var/www/jethro/contact.php 32 
+
+=================================== 
+ 2024-04-06 23:30:44 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:30:44 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-06 23:30:48 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:30:48 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:30:48 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:30:48 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:30:48 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-06 23:30:48 8 Array to string conversion /var/www/jethro/contact.php 32 
+
+=================================== 
+ 2024-04-06 23:30:48 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:30:48 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:30:48 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:30:48 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:30:48 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-06 23:30:48 8 Array to string conversion /var/www/jethro/contact.php 32 
+
+=================================== 
+ 2024-04-06 23:30:52 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:30:52 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-06 23:30:52 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:30:52 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-06 23:30:52 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-06 23:30:52 8 Array to string conversion /var/www/jethro/contact.php 32 
+
+=================================== 
+ 2024-04-06 23:32:26 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-06 23:32:26 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-07 00:35:13 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-07 00:35:13 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-07 00:40:46 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-07 00:40:46 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-07 00:42:25 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-07 00:42:25 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-07 00:43:11 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-07 00:43:11 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-07 00:46:59 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-07 00:46:59 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-07 23:13:06 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-07 23:13:06 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-07 23:13:49 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-07 23:13:49 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-07 23:13:49 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-07 23:13:49 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-07 23:13:49 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-07 23:13:49 8 Array to string conversion /var/www/jethro/contact.php 32 
+
+=================================== 
+ 2024-04-08 14:17:03 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-08 14:17:03 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-08 14:17:13 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-08 14:17:13 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-08 20:06:48 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-08 20:06:48 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-08 20:06:48 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-08 20:06:48 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-08 20:06:48 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-08 20:06:48 8 Array to string conversion /var/www/jethro/contact.php 32 
+
+=================================== 
+ 2024-04-08 20:06:52 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-08 20:06:52 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-08 20:07:02 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-08 20:07:02 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-08 20:07:02 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-08 20:07:02 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-08 20:07:02 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-08 20:07:02 8 Array to string conversion /var/www/jethro/contact.php 32 
+
+=================================== 
+ 2024-04-09 20:01:52 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-09 20:01:52 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-09 20:01:55 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 20:01:55 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 20:01:55 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 20:01:55 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 20:01:55 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-09 20:01:55 8 Array to string conversion /var/www/jethro/contact.php 32 
+
+=================================== 
+ 2024-04-09 20:03:27 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 20:03:27 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 20:03:27 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 20:03:27 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 20:03:27 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-09 20:03:27 8 Array to string conversion /var/www/jethro/contact.php 32 
+
+=================================== 
+ 2024-04-09 20:04:06 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 20:04:06 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 20:04:06 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 20:04:06 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 20:04:06 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-09 20:04:06 8 Array to string conversion /var/www/jethro/contact.php 33 
+
+=================================== 
+ 2024-04-09 20:05:02 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 20:05:02 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 20:05:02 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 20:05:02 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 20:05:02 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-09 20:05:02 8 Array to string conversion /var/www/jethro/contact.php 33 
+
+=================================== 
+ 2024-04-09 21:59:27 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 21:59:27 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 21:59:27 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 21:59:27 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 21:59:27 2 mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given /var/www/jethro/contact.php 11 
+
+=================================== 
+ 2024-04-09 21:59:27 8 Array to string conversion /var/www/jethro/contact.php 33 
+
+=================================== 
+ 2024-04-09 22:06:23 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:06:23 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:06:23 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:06:23 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:06:23 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:06:23 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:06:23 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:06:23 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:06:46 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:06:46 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:06:46 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:06:46 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:06:46 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:06:46 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:06:46 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:06:46 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:07:20 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:07:20 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:07:20 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:07:20 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:07:20 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:07:20 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:07:20 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:07:20 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:46 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:46 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:46 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:46 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:46 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:46 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:46 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:46 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:47 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:47 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:47 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:47 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:47 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:47 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:47 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:47 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:47 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:47 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:47 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:47 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:47 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:47 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:47 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:47 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:48 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:48 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:48 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:48 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:48 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:48 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:48 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:48 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:48 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:48 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:48 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:48 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:48 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:48 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:08:48 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:48 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:08:55 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-09 22:08:55 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-09 22:09:02 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:09:02 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:09:02 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:09:02 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:09:02 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:09:02 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:09:02 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:09:02 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:09:47 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:09:47 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:09:47 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:09:47 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:09:47 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:09:47 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:09:47 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:09:47 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:25:11 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:25:11 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:25:11 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:25:11 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:25:11 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:25:11 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:25:11 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:25:11 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:26:28 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:26:28 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:26:28 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:26:28 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:26:28 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:26:28 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:26:28 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:26:28 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:26:41 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:26:41 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:26:41 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:26:41 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:26:41 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:26:41 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 22:26:41 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 22:26:41 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:32:49 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-09 23:32:49 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-09 23:32:51 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:32:51 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:32:51 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:32:51 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:32:51 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:32:51 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:32:51 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:32:51 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:34:49 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:34:49 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:34:49 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:34:49 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:34:49 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:34:49 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:34:49 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:34:49 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:35:15 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-09 23:35:15 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-09 23:36:41 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:36:41 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:36:41 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:36:41 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:36:41 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:36:41 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:36:41 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:36:41 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:37:13 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-09 23:37:13 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-09 23:37:17 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:37:17 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:37:17 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:37:17 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:37:17 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:37:17 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-09 23:37:17 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-09 23:37:17 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:11:02 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:11:02 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:11:02 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:11:02 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:11:02 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:11:02 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:11:02 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:11:02 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:11:28 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:11:28 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:11:28 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:11:28 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:11:28 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:11:28 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:11:28 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:11:28 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:13:31 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:13:31 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:13:31 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:13:31 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:13:31 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:13:31 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:13:31 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:13:31 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:13:52 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:13:52 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:13:52 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:13:52 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:13:52 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:13:52 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:13:52 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:13:52 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:13:52 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:13:52 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:13:52 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:13:52 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:14:20 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:14:20 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:14:20 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:14:20 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:14:20 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:14:20 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:14:20 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:14:20 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:14:25 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:14:25 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:14:25 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:14:25 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:14:25 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:14:25 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:14:25 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:14:25 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:14:41 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:14:41 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:14:41 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:14:41 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:14:41 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:14:41 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:14:41 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:14:41 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:17:49 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-10 00:17:49 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-10 00:43:01 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:43:01 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:43:01 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:43:01 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:43:01 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:43:01 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:43:01 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:43:01 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:43:11 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:43:11 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:43:11 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:43:11 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:43:11 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:43:11 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:43:11 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:43:11 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:44:51 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:44:51 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:44:51 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:44:51 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:44:51 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:44:51 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:44:51 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:44:51 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:45:00 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:45:00 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:45:00 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:45:00 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:45:00 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:45:00 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:45:00 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:45:00 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:47:25 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:47:25 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:47:25 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:47:25 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:47:25 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:47:25 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:47:25 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:47:25 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:47:25 8 Undefined index: sql_param /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:47:25 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 31 
+
+=================================== 
+ 2024-04-10 00:47:25 8 Undefined index: sql_param /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:47:25 2 Invalid argument supplied for foreach() /var/www/jethro/db_class.php 37 
+
+=================================== 
+ 2024-04-10 00:51:38 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-10 00:51:38 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-10 01:40:03 8 Undefined variable: db /var/www/jethro/formcheck.php 1 
+
+=================================== 
+ 2024-04-10 01:40:05 8 Undefined variable: db /var/www/jethro/formcheck.php 1 
+
+=================================== 
+ 2024-04-10 01:40:06 8 Undefined variable: db /var/www/jethro/formcheck.php 1 
+
+=================================== 
+ 2024-04-10 01:40:08 8 Undefined variable: db /var/www/jethro/formcheck.php 1 
+
+=================================== 
+ 2024-04-10 01:41:29 8 Undefined variable: db /var/www/jethro/formcheck.php 1 
+
+=================================== 
+ 2024-04-10 01:44:39 8 Undefined variable: db /var/www/jethro/formcheck.php 2 
+
+=================================== 
+ 2024-04-10 01:44:41 8 Undefined variable: db /var/www/jethro/formcheck.php 2 
+
+=================================== 
+ 2024-04-10 01:44:44 8 Undefined variable: db /var/www/jethro/formcheck.php 2 
+
+=================================== 
+ 2024-04-10 01:45:25 8 Undefined variable: db /var/www/jethro/formcheck.php 2 
+
+=================================== 
+ 2024-04-10 01:45:25 8 Undefined variable: db /var/www/jethro/formcheck.php 2 
+
+=================================== 
+ 2024-04-10 01:45:25 8 Undefined variable: db /var/www/jethro/formcheck.php 2 
+
+=================================== 
+ 2024-04-10 01:45:32 8 Undefined variable: result /var/www/jethro/index.php 38 
+
+=================================== 
+ 2024-04-10 01:45:32 8 Undefined variable: result1 /var/www/jethro/index.php 44 
+
+=================================== 
+ 2024-04-10 01:45:40 8 Undefined variable: db /var/www/jethro/formcheck.php 2 
+
+[Mon Apr 15 12:28:29.820002 2024] [proxy_fcgi:error] [pid 47155:tid 140350999947008] [client 100.36.218.120:51467] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/calender.php
+[Tue Apr 16 17:56:46.632230 2024] [proxy_fcgi:error] [pid 47155:tid 140351083874048] [client 100.36.218.120:59341] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/index.php
+[Tue Apr 16 17:56:49.321723 2024] [proxy_fcgi:error] [pid 47155:tid 140351075481344] [client 100.36.218.120:59341] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/index.php
+[Wed Apr 17 11:23:43.646537 2024] [proxy_fcgi:error] [pid 47155:tid 140351125837568] [client 104.28.76.233:55078] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/eventscheck.php
+[Wed Apr 17 16:37:53.566071 2024] [proxy_fcgi:error] [pid 47155:tid 140350999947008] [client 100.36.218.120:59242] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/test2.php
+[Wed Apr 17 16:38:28.753284 2024] [proxy_fcgi:error] [pid 47155:tid 140350966376192] [client 100.36.218.120:59246] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/test2.php
+[Wed Apr 17 17:05:50.466753 2024] [proxy_fcgi:error] [pid 47155:tid 140351016732416] [client 100.36.218.120:60631] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/eventscheck.php
+[Wed Apr 17 18:32:35.591301 2024] [proxy_fcgi:error] [pid 47155:tid 140351242102528] [client 100.36.218.120:64896] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/addevent.php
+[Wed Apr 17 18:32:39.784984 2024] [proxy_fcgi:error] [pid 47155:tid 140351050303232] [client 100.36.218.120:64896] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/addevent.php
+[Wed Apr 17 18:32:41.931233 2024] [proxy_fcgi:error] [pid 47155:tid 140351233709824] [client 100.36.218.120:64896] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/addevent.php
+[Thu Apr 18 16:00:08.808632 2024] [proxy_fcgi:error] [pid 47155:tid 140350991554304] [client 100.36.218.120:60026] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/events.php
+[Thu Apr 18 16:04:13.720809 2024] [proxy_fcgi:error] [pid 47155:tid 140351025125120] [client 100.36.218.120:60220] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/events.php
+[Thu Apr 18 16:04:15.435215 2024] [proxy_fcgi:error] [pid 47155:tid 140350999947008] [client 100.36.218.120:60220] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/events.php
+[Thu Apr 18 16:04:41.251769 2024] [proxy_fcgi:error] [pid 47155:tid 140351125837568] [client 104.28.76.238:45700] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/events.php
+[Thu Apr 18 16:50:52.499564 2024] [proxy_fcgi:error] [pid 47155:tid 140351083874048] [client 100.36.218.120:62566] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/eventscheck.php
+[Tue May 07 16:16:24.239467 2024] [proxy_fcgi:error] [pid 410709:tid 140350899332864] [client 100.36.218.120:51312] AH01071: Got error 'Primary script unknown\n'
+[Tue May 07 16:16:35.081301 2024] [proxy_fcgi:error] [pid 411006:tid 140351075481344] [client 100.36.218.120:51315] AH01071: Got error 'Primary script unknown\n'
+[Tue May 07 16:18:17.582579 2024] [proxy_fcgi:error] [pid 411006:tid 140351050303232] [client 100.36.218.120:51423] AH01071: Got error 'Primary script unknown\n'
+[Tue May 07 16:18:28.155502 2024] [proxy_fcgi:error] [pid 411006:tid 140350991554304] [client 100.36.218.120:51438] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:18:41.392064 2024] [proxy_fcgi:error] [pid 411006:tid 140350974768896] [client 100.36.218.120:51449] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:19:44.933912 2024] [proxy_fcgi:error] [pid 411006:tid 140351225317120] [client 100.36.218.120:51522] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:19:45.889429 2024] [proxy_fcgi:error] [pid 411006:tid 140351134230272] [client 100.36.218.120:51522] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:20:10.674334 2024] [proxy_fcgi:error] [pid 411006:tid 140351117444864] [client 100.36.218.120:51523] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:20:12.108781 2024] [proxy_fcgi:error] [pid 411006:tid 140351092266752] [client 100.36.218.120:51523] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:20:15.028080 2024] [proxy_fcgi:error] [pid 411006:tid 140351075481344] [client 100.36.218.120:51523] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:20:22.116165 2024] [proxy_fcgi:error] [pid 411006:tid 140351050303232] [client 100.36.218.120:51540] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:20:40.701809 2024] [proxy_fcgi:error] [pid 411006:tid 140351008339712] [client 100.36.218.120:51554] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:20:41.213668 2024] [proxy_fcgi:error] [pid 411006:tid 140350991554304] [client 100.36.218.120:51554] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:21:31.163763 2024] [proxy_fcgi:error] [pid 411006:tid 140350974768896] [client 100.36.218.120:51568] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:21:31.803322 2024] [proxy_fcgi:error] [pid 411006:tid 140351242102528] [client 100.36.218.120:51568] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:24:50.429458 2024] [proxy_fcgi:error] [pid 411006:tid 140351125837568] [client 100.36.218.120:51791] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:24:51.128490 2024] [proxy_fcgi:error] [pid 411006:tid 140351117444864] [client 100.36.218.120:51791] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:29:46.335887 2024] [proxy_fcgi:error] [pid 411006:tid 140351225317120] [client 100.36.218.120:52063] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:32:18.668686 2024] [proxy_fcgi:error] [pid 411006:tid 140351092266752] [client 100.36.218.120:52214] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:32:19.259320 2024] [proxy_fcgi:error] [pid 411006:tid 140351067088640] [client 100.36.218.120:52214] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:32:19.406991 2024] [proxy_fcgi:error] [pid 411006:tid 140351058695936] [client 100.36.218.120:52214] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:32:19.554912 2024] [proxy_fcgi:error] [pid 411006:tid 140351025125120] [client 100.36.218.120:52214] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:32:19.702364 2024] [proxy_fcgi:error] [pid 411006:tid 140351041910528] [client 100.36.218.120:52214] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:32:19.850015 2024] [proxy_fcgi:error] [pid 411006:tid 140350999947008] [client 100.36.218.120:52214] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:32:19.987834 2024] [proxy_fcgi:error] [pid 411006:tid 140350983161600] [client 100.36.218.120:52214] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 16:34:41.151754 2024] [proxy_fcgi:error] [pid 411006:tid 140351242102528] [client 100.36.218.120:52334] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:01:43.632059 2024] [proxy_fcgi:error] [pid 411006:tid 140351100659456] [client 100.36.218.120:52197] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:01:45.213830 2024] [proxy_fcgi:error] [pid 411006:tid 140351109052160] [client 100.36.218.120:52197] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:01:45.718458 2024] [proxy_fcgi:error] [pid 411006:tid 140351117444864] [client 100.36.218.120:52197] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:01:47.192296 2024] [proxy_fcgi:error] [pid 411006:tid 140351067088640] [client 100.36.218.120:52197] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:01:48.319330 2024] [proxy_fcgi:error] [pid 411006:tid 140351058695936] [client 100.36.218.120:52197] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:01:49.438698 2024] [proxy_fcgi:error] [pid 411006:tid 140351025125120] [client 100.36.218.120:52197] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:02:07.357940 2024] [proxy_fcgi:error] [pid 411006:tid 140350999947008] [client 100.36.218.120:52198] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:03:59.486414 2024] [proxy_fcgi:error] [pid 411006:tid 140351067088640] [client 100.36.218.120:52353] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:04:00.963349 2024] [proxy_fcgi:error] [pid 411006:tid 140351058695936] [client 100.36.218.120:52353] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:04:01.248904 2024] [proxy_fcgi:error] [pid 411006:tid 140351092266752] [client 100.36.218.120:52353] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:04:01.417736 2024] [proxy_fcgi:error] [pid 411006:tid 140351025125120] [client 100.36.218.120:52353] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:04:01.593702 2024] [proxy_fcgi:error] [pid 411006:tid 140351050303232] [client 100.36.218.120:52353] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:04:01.741217 2024] [proxy_fcgi:error] [pid 411006:tid 140351041910528] [client 100.36.218.120:52353] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:04:01.888929 2024] [proxy_fcgi:error] [pid 411006:tid 140351016732416] [client 100.36.218.120:52353] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:04:02.037885 2024] [proxy_fcgi:error] [pid 411006:tid 140351008339712] [client 100.36.218.120:52353] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:04:02.184313 2024] [proxy_fcgi:error] [pid 411006:tid 140350999947008] [client 100.36.218.120:52353] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:04:02.342938 2024] [proxy_fcgi:error] [pid 411006:tid 140350966376192] [client 100.36.218.120:52353] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:04:02.499535 2024] [proxy_fcgi:error] [pid 411006:tid 140350991554304] [client 100.36.218.120:52353] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:05:34.459667 2024] [proxy_fcgi:error] [pid 411006:tid 140351083874048] [client 100.36.218.120:52454] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:06:13.670103 2024] [proxy_fcgi:error] [pid 411006:tid 140351242102528] [client 100.36.218.120:52455] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 07 21:09:11.813267 2024] [proxy_fcgi:error] [pid 411006:tid 140351025125120] [client 100.36.218.120:52733] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Wed May 08 14:35:22.220701 2024] [proxy_fcgi:error] [pid 411006:tid 140350991554304] [client 146.75.222.185:20768] AH01071: Got error 'Primary script unknown\n'
+[Wed May 08 14:35:24.624455 2024] [proxy_fcgi:error] [pid 411006:tid 140350983161600] [client 146.75.222.185:20768] AH01071: Got error 'Primary script unknown\n'
+[Wed May 15 13:49:19.190801 2024] [proxy_fcgi:error] [pid 493765:tid 140351233709824] [client 100.36.218.120:55526] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:17:46.736015 2024] [proxy_fcgi:error] [pid 493765:tid 140351067088640] [client 100.36.218.120:50805] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:17:48.791258 2024] [proxy_fcgi:error] [pid 493765:tid 140351092266752] [client 100.36.218.120:50805] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:17:49.539920 2024] [proxy_fcgi:error] [pid 493765:tid 140351008339712] [client 100.36.218.120:50805] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:17:55.758870 2024] [proxy_fcgi:error] [pid 493765:tid 140350983161600] [client 100.36.218.120:50806] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:17:57.077999 2024] [proxy_fcgi:error] [pid 493765:tid 140351134230272] [client 100.36.218.120:50806] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:17:57.383451 2024] [proxy_fcgi:error] [pid 493765:tid 140350991554304] [client 100.36.218.120:50806] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:17:57.530927 2024] [proxy_fcgi:error] [pid 493765:tid 140351033517824] [client 100.36.218.120:50806] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:17:57.688674 2024] [proxy_fcgi:error] [pid 493765:tid 140351109052160] [client 100.36.218.120:50806] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:17:57.865746 2024] [proxy_fcgi:error] [pid 493765:tid 140351142622976] [client 100.36.218.120:50806] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:17:58.042896 2024] [proxy_fcgi:error] [pid 493765:tid 140351233709824] [client 100.36.218.120:50806] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:17:58.240058 2024] [proxy_fcgi:error] [pid 493765:tid 140351117444864] [client 100.36.218.120:50806] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:17:58.378188 2024] [proxy_fcgi:error] [pid 493765:tid 140351075481344] [client 100.36.218.120:50806] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:18:01.430220 2024] [proxy_fcgi:error] [pid 493765:tid 140351225317120] [client 100.36.218.120:50806] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:19:21.098507 2024] [proxy_fcgi:error] [pid 493765:tid 140351050303232] [client 100.36.218.120:50847] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:19:21.778097 2024] [proxy_fcgi:error] [pid 493765:tid 140350999947008] [client 100.36.218.120:50847] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:19:22.860849 2024] [proxy_fcgi:error] [pid 493765:tid 140351092266752] [client 100.36.218.120:50847] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu May 16 15:19:50.932559 2024] [proxy_fcgi:error] [pid 493765:tid 140350966376192] [client 100.36.218.120:50848] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 21 21:29:16.515030 2024] [proxy_fcgi:error] [pid 628082:tid 140351109052160] [client 100.36.218.120:50985] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 21 23:49:35.347516 2024] [proxy_fcgi:error] [pid 628082:tid 140351233709824] [client 100.36.218.120:50298] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 21 23:49:37.352473 2024] [proxy_fcgi:error] [pid 628082:tid 140351100659456] [client 100.36.218.120:50298] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 21 23:49:37.529420 2024] [proxy_fcgi:error] [pid 628082:tid 140350966376192] [client 100.36.218.120:50298] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 21 23:49:37.696496 2024] [proxy_fcgi:error] [pid 628082:tid 140351142622976] [client 100.36.218.120:50298] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 21 23:49:37.873915 2024] [proxy_fcgi:error] [pid 628082:tid 140351134230272] [client 100.36.218.120:50298] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 21 23:49:38.041484 2024] [proxy_fcgi:error] [pid 628082:tid 140351092266752] [client 100.36.218.120:50298] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 21 23:49:38.198848 2024] [proxy_fcgi:error] [pid 628082:tid 140351125837568] [client 100.36.218.120:50298] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 21 23:49:50.795860 2024] [proxy_fcgi:error] [pid 628082:tid 140351083874048] [client 100.36.218.120:50299] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue May 21 23:52:34.743024 2024] [proxy_fcgi:error] [pid 628082:tid 140351050303232] [client 100.36.218.120:50339] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Mon Sep 16 11:12:43.649748 2024] [proxy_fcgi:error] [pid 1121955:tid 139698768963328] [client 100.36.218.120:60101] AH01067: Failed to read FastCGI header, referer: http://jethro.civil-it.com/index.php
+[Mon Sep 16 11:12:43.650348 2024] [proxy_fcgi:error] [pid 1121955:tid 139698768963328] (104)Connection reset by peer: [client 100.36.218.120:60101] AH01075: Error dispatching request to : , referer: http://jethro.civil-it.com/index.php
+[Tue Sep 17 19:42:04.390834 2024] [proxy_fcgi:error] [pid 1121736:tid 139698768963328] [client 100.36.218.120:53688] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:14:19.761606 2024] [proxy_fcgi:error] [pid 1121955:tid 139698743785216] [client 100.36.218.120:54640] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:14:20.460673 2024] [proxy_fcgi:error] [pid 1121955:tid 139698760570624] [client 100.36.218.120:54640] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:14:21.661978 2024] [proxy_fcgi:error] [pid 1121955:tid 139698668250880] [client 100.36.218.120:54640] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:14:22.459517 2024] [proxy_fcgi:error] [pid 1121955:tid 139698676643584] [client 100.36.218.120:54640] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:14:23.463910 2024] [proxy_fcgi:error] [pid 1121955:tid 139698634680064] [client 100.36.218.120:54640] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:14:25.147387 2024] [proxy_fcgi:error] [pid 1121955:tid 139698718607104] [client 100.36.218.120:54640] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:14:26.073111 2024] [proxy_fcgi:error] [pid 1121955:tid 139698693428992] [client 100.36.218.120:54640] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:19:17.482394 2024] [proxy_fcgi:error] [pid 1121955:tid 139698634680064] [client 104.28.76.237:13182] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:19:18.526049 2024] [proxy_fcgi:error] [pid 1121955:tid 139698718607104] [client 104.28.76.237:13182] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:56:14.606815 2024] [proxy_fcgi:error] [pid 1121736:tid 139698868553472] [client 100.36.218.120:54889] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:56:18.614076 2024] [proxy_fcgi:error] [pid 1121736:tid 139698592716544] [client 100.36.218.120:54889] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:56:18.949044 2024] [proxy_fcgi:error] [pid 1121736:tid 139698760570624] [client 100.36.218.120:54889] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:56:20.110622 2024] [proxy_fcgi:error] [pid 1121736:tid 139698752177920] [client 100.36.218.120:54889] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:56:20.849364 2024] [proxy_fcgi:error] [pid 1121736:tid 139698743785216] [client 100.36.218.120:54889] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:56:21.509052 2024] [proxy_fcgi:error] [pid 1121736:tid 139698735392512] [client 100.36.218.120:54889] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:56:22.001388 2024] [proxy_fcgi:error] [pid 1121736:tid 139698726999808] [client 100.36.218.120:54889] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 21:56:22.532894 2024] [proxy_fcgi:error] [pid 1121736:tid 139698718607104] [client 100.36.218.120:54889] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 22:13:12.817884 2024] [proxy_fcgi:error] [pid 1121955:tid 139698693428992] [client 104.28.76.237:18167] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 22:15:30.797923 2024] [proxy_fcgi:error] [pid 1121736:tid 139698718607104] [client 104.28.76.236:43795] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 22:35:25.983727 2024] [proxy_fcgi:error] [pid 1121955:tid 139698609501952] [client 100.36.218.120:55703] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 22:35:26.968338 2024] [proxy_fcgi:error] [pid 1121955:tid 139698601109248] [client 100.36.218.120:55703] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:16:57.193455 2024] [proxy_fcgi:error] [pid 1121955:tid 139698685036288] [client 100.36.218.120:56002] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/adminLogin.php
+[Tue Sep 17 23:17:16.239210 2024] [proxy_fcgi:error] [pid 1121736:tid 139698860160768] [client 100.36.218.120:56001] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/adminLogin.php
+[Tue Sep 17 23:41:44.999795 2024] [proxy_fcgi:error] [pid 1121955:tid 139698609501952] [client 100.36.218.120:56107] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:41:45.580478 2024] [proxy_fcgi:error] [pid 1121955:tid 139698592716544] [client 100.36.218.120:56107] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:41:46.555253 2024] [proxy_fcgi:error] [pid 1121955:tid 139698601109248] [client 100.36.218.120:56107] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:45:32.603393 2024] [proxy_fcgi:error] [pid 1121737:tid 139698416568064] [client 100.36.218.120:56191] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:45:34.542985 2024] [proxy_fcgi:error] [pid 1121737:tid 139698424960768] [client 100.36.218.120:56191] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:45:34.877746 2024] [proxy_fcgi:error] [pid 1121737:tid 139698433353472] [client 100.36.218.120:56191] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:45:35.035326 2024] [proxy_fcgi:error] [pid 1121737:tid 139698408175360] [client 100.36.218.120:56191] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:45:35.212510 2024] [proxy_fcgi:error] [pid 1121737:tid 139698391389952] [client 100.36.218.120:56191] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:45:36.413620 2024] [proxy_fcgi:error] [pid 1121737:tid 139698399782656] [client 100.36.218.120:56191] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:45:36.748545 2024] [proxy_fcgi:error] [pid 1121737:tid 139698659694336] [client 100.36.218.120:56191] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:45:36.925728 2024] [proxy_fcgi:error] [pid 1121737:tid 139698382997248] [client 100.36.218.120:56191] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:45:49.312424 2024] [proxy_fcgi:error] [pid 1121955:tid 139698668250880] [client 100.36.218.120:56203] AH01071: Got error 'Primary script unknown\n'
+[Tue Sep 17 23:47:05.738115 2024] [proxy_fcgi:error] [pid 1121736:tid 139698634680064] [client 100.36.218.120:56228] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:47:26.670761 2024] [proxy_fcgi:error] [pid 1121738:tid 139698743785216] [client 100.36.218.120:56252] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:47:32.696521 2024] [proxy_fcgi:error] [pid 1121738:tid 139698726999808] [client 100.36.218.120:56252] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:48:07.581536 2024] [proxy_fcgi:error] [pid 1121736:tid 139698868553472] [client 100.36.218.120:56257] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Tue Sep 17 23:52:56.534182 2024] [proxy_fcgi:error] [pid 1121955:tid 139698701821696] [client 100.36.218.120:56434] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php?month=8&year=2024
+[Wed Sep 18 16:29:08.555830 2024] [proxy_fcgi:error] [pid 1121955:tid 139698617894656] [client 100.36.218.120:63056] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Wed Sep 18 22:18:20.680285 2024] [proxy_fcgi:error] [pid 1121736:tid 139698860160768] [client 100.36.218.120:64402] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Wed Sep 18 22:18:23.230520 2024] [proxy_fcgi:error] [pid 1121736:tid 139698760570624] [client 100.36.218.120:64402] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Wed Sep 18 22:18:23.279695 2024] [proxy_fcgi:error] [pid 1121736:tid 139698752177920] [client 100.36.218.120:64402] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Wed Sep 18 22:18:24.687775 2024] [proxy_fcgi:error] [pid 1121736:tid 139698743785216] [client 100.36.218.120:64402] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Wed Sep 18 22:18:24.806305 2024] [proxy_fcgi:error] [pid 1121955:tid 139698609501952] [client 100.36.218.120:64404] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Wed Sep 18 22:18:25.682313 2024] [proxy_fcgi:error] [pid 1121955:tid 139698601109248] [client 100.36.218.120:64404] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Wed Sep 18 22:18:25.731283 2024] [proxy_fcgi:error] [pid 1121736:tid 139698735392512] [client 100.36.218.120:64402] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Wed Sep 18 22:18:27.986291 2024] [proxy_fcgi:error] [pid 1121955:tid 139698868553472] [client 100.36.218.120:64404] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Wed Sep 18 22:18:28.035511 2024] [proxy_fcgi:error] [pid 1121736:tid 139698718607104] [client 100.36.218.120:64402] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Wed Sep 18 22:18:28.114254 2024] [proxy_fcgi:error] [pid 1121955:tid 139698685036288] [client 100.36.218.120:64404] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Wed Sep 18 22:18:28.173291 2024] [proxy_fcgi:error] [pid 1121736:tid 139698710214400] [client 100.36.218.120:64402] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Wed Sep 18 22:37:44.488209 2024] [proxy_fcgi:error] [pid 1121955:tid 139698710214400] [client 100.36.218.120:64532] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php?month=8&year=2024
+[Thu Sep 19 19:37:27.231104 2024] [proxy_fcgi:error] [pid 1121955:tid 139698659858176] [client 100.36.218.120:49939] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu Sep 19 19:37:28.412597 2024] [proxy_fcgi:error] [pid 1121955:tid 139698701821696] [client 100.36.218.120:49939] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu Sep 19 19:37:28.885251 2024] [proxy_fcgi:error] [pid 1121955:tid 139698626287360] [client 100.36.218.120:49939] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu Sep 19 19:37:29.535103 2024] [proxy_fcgi:error] [pid 1121955:tid 139698752177920] [client 100.36.218.120:49939] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu Sep 19 21:57:57.228130 2024] [proxy_fcgi:error] [pid 1121736:tid 139698643072768] [client 100.36.218.120:51543] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Thu Sep 19 22:45:13.161679 2024] [proxy_fcgi:error] [pid 1121955:tid 139698768963328] [client 100.36.218.120:52723] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 00:30:40.424541 2024] [proxy_fcgi:error] [pid 1121955:tid 139698676643584] [client 100.36.218.120:54565] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 00:30:41.920972 2024] [proxy_fcgi:error] [pid 1121955:tid 139698718607104] [client 100.36.218.120:54565] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 13:48:45.986850 2024] [proxy_fcgi:error] [pid 1121955:tid 139698651465472] [client 104.28.76.237:53069] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:34:27.957795 2024] [proxy_fcgi:error] [pid 1121955:tid 139698743785216] [client 100.36.218.120:60500] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:34:31.531901 2024] [proxy_fcgi:error] [pid 1121955:tid 139698651465472] [client 100.36.218.120:60500] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:34:32.811985 2024] [proxy_fcgi:error] [pid 1121955:tid 139698718607104] [client 100.36.218.120:60500] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:34:33.609516 2024] [proxy_fcgi:error] [pid 1121955:tid 139698726999808] [client 100.36.218.120:60500] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:34:34.751671 2024] [proxy_fcgi:error] [pid 1121955:tid 139698693428992] [client 100.36.218.120:60500] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:34:36.967193 2024] [proxy_fcgi:error] [pid 1121955:tid 139698634680064] [client 100.36.218.120:60500] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:34:39.015040 2024] [proxy_fcgi:error] [pid 1121955:tid 139698701821696] [client 100.36.218.120:60500] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:36:05.504088 2024] [proxy_fcgi:error] [pid 1121955:tid 139698609501952] [client 100.36.218.120:60550] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:40:05.523374 2024] [proxy_fcgi:error] [pid 1121736:tid 139698609501952] [client 100.36.218.120:60593] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:40:24.622273 2024] [proxy_fcgi:error] [pid 1121955:tid 139698685036288] [client 100.36.218.120:60595] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:40:25.301653 2024] [proxy_fcgi:error] [pid 1121955:tid 139698743785216] [client 100.36.218.120:60595] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:40:25.439526 2024] [proxy_fcgi:error] [pid 1121955:tid 139698668250880] [client 100.36.218.120:60595] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:40:25.606970 2024] [proxy_fcgi:error] [pid 1121955:tid 139698651465472] [client 100.36.218.120:60595] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:40:27.034543 2024] [proxy_fcgi:error] [pid 1121955:tid 139698726999808] [client 100.36.218.120:60595] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:40:28.324496 2024] [proxy_fcgi:error] [pid 1121955:tid 139698634680064] [client 100.36.218.120:60595] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:40:29.309053 2024] [proxy_fcgi:error] [pid 1121955:tid 139698643072768] [client 100.36.218.120:60595] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:40:29.929352 2024] [proxy_fcgi:error] [pid 1121955:tid 139698701821696] [client 100.36.218.120:60595] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:44:13.026425 2024] [proxy_fcgi:error] [pid 1121955:tid 139698601109248] [client 100.36.218.120:60626] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:44:13.991096 2024] [proxy_fcgi:error] [pid 1121955:tid 139698617894656] [client 100.36.218.120:60626] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:44:14.660562 2024] [proxy_fcgi:error] [pid 1121955:tid 139698710214400] [client 100.36.218.120:60626] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:44:35.190506 2024] [proxy_fcgi:error] [pid 1121736:tid 139698860160768] [client 100.36.218.120:60627] AH01071: Got error 'Primary script unknown\n'
+[Fri Sep 20 15:44:52.155009 2024] [proxy_fcgi:error] [pid 1121955:tid 139698609501952] [client 100.36.218.120:60636] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 15:51:58.991863 2024] [proxy_fcgi:error] [pid 1121955:tid 139698777356032] [client 100.36.218.120:60694] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 16:06:34.923697 2024] [proxy_fcgi:error] [pid 1121955:tid 139698651465472] [client 100.36.218.120:60789] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 16:06:36.114788 2024] [proxy_fcgi:error] [pid 1121955:tid 139698718607104] [client 100.36.218.120:60789] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 16:18:19.726283 2024] [proxy_fcgi:error] [pid 1121955:tid 139698868553472] [client 104.28.76.231:44647] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 16:18:20.878959 2024] [proxy_fcgi:error] [pid 1121955:tid 139698676643584] [client 104.28.76.231:44647] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 16:18:24.708428 2024] [proxy_fcgi:error] [pid 1121955:tid 139698743785216] [client 104.28.76.231:44647] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 16:18:26.086817 2024] [proxy_fcgi:error] [pid 1121955:tid 139698668250880] [client 104.28.76.231:44647] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 17:16:07.339772 2024] [proxy_fcgi:error] [pid 1121738:tid 139698868553472] [client 100.36.218.120:62447] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 20:01:52.691156 2024] [proxy_fcgi:error] [pid 1121955:tid 139698868553472] [client 100.36.218.120:49522] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 20:01:55.290620 2024] [proxy_fcgi:error] [pid 1121955:tid 139698676643584] [client 100.36.218.120:49522] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 21:14:03.362318 2024] [proxy_fcgi:error] [pid 1121955:tid 139698659858176] [client 104.28.76.234:65313] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 21:25:49.151926 2024] [proxy_fcgi:error] [pid 1121955:tid 139698752177920] [client 100.36.218.120:51062] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 21:34:47.793388 2024] [proxy_fcgi:error] [pid 1121955:tid 139698701821696] [client 100.36.218.120:51216] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 21:34:50.491075 2024] [proxy_fcgi:error] [pid 1121955:tid 139698626287360] [client 100.36.218.120:51216] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Fri Sep 20 22:37:28.319765 2024] [proxy_fcgi:error] [pid 1121738:tid 139698651465472] [client 100.36.218.120:52219] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Sat Sep 21 10:39:53.267799 2024] [proxy_fcgi:error] [pid 1121955:tid 139698676643584] [client 100.36.218.120:53448] AH01071: Got error 'Primary script unknown\n'
+[Sat Sep 21 10:40:09.117463 2024] [proxy_fcgi:error] [pid 1121955:tid 139698743785216] [client 100.36.218.120:53447] AH01071: Got error 'Primary script unknown\n'
+[Sun Sep 22 08:52:50.944853 2024] [proxy_fcgi:error] [pid 1234162:tid 139698651465472] [client 104.28.76.232:52238] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Mon Sep 23 12:34:19.643194 2024] [proxy_fcgi:error] [pid 1234162:tid 139698609501952] [client 100.36.218.120:60792] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Mon Sep 23 12:34:20.607985 2024] [proxy_fcgi:error] [pid 1234162:tid 139698777356032] [client 100.36.218.120:60792] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Mon Sep 23 12:34:21.188851 2024] [proxy_fcgi:error] [pid 1234162:tid 139698768963328] [client 100.36.218.120:60792] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Mon Sep 23 13:25:10.393525 2024] [proxy_fcgi:error] [pid 1234162:tid 139698768963328] [client 100.36.218.120:61376] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Mon Sep 23 13:25:12.018147 2024] [proxy_fcgi:error] [pid 1234162:tid 139698752177920] [client 100.36.218.120:61376] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Mon Sep 23 13:25:43.144899 2024] [proxy_fcgi:error] [pid 1233881:tid 139698592716544] [client 100.36.218.120:61377] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
+[Mon Sep 23 13:25:44.464354 2024] [proxy_fcgi:error] [pid 1233881:tid 139698860160768] [client 100.36.218.120:61377] AH01071: Got error 'Primary script unknown\n', referer: http://jethro.civil-it.com/mainportal.php
